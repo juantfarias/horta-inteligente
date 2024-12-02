@@ -6,4 +6,4 @@ Este repositório contém os materiais desenvolvidos para o projeto de extensão
 
 - **Relatório de Participação:** PDF com detalhes do projeto e comprovação da experiência.
 - **Código Arduino:** Programa utilizado para controlar a horta inteligente, disponível para testes e implementação.
-- **Código Arduino:** Crachá de participação do evento.
+- **Imagem crachá:** Crachá de participação do evento.
